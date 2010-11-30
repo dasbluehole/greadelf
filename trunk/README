@@ -1,0 +1,8 @@
+-=|readelf-gui|=-
+This Tool is essentially a wrapper over eu-readelf. also this gui can work 
+without eu-readelf with limited functionality. Optionally it also works with 
+elfinfo an associated package.
+
+requirements:
+eu-readelf and/or elfinfo
+

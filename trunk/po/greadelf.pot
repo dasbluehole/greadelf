@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-05 15:03+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/interface.c:36
+msgid "Read ELF GUI"
+msgstr ""
+
+#: src/interface.c:571
+msgid "Section"
+msgstr ""
+
+#: src/interface.c:575
+msgid "select to display section"
+msgstr ""
+
+#: src/interface.c:577
+msgid "Symbol"
+msgstr ""
+
+#: src/interface.c:581
+msgid "select to display symbols"
+msgstr ""
+
+#: src/interface.c:583
+msgid "eu-readelf"
+msgstr ""
+
+#: src/interface.c:587
+msgid "select to use eu-readelf"
+msgstr ""
+
+#: src/interface.c:589
+msgid "Start"
+msgstr ""
+
+#: src/interface.c:593
+msgid "click to start processing"
+msgstr ""
+
+#: src/interface.c:595 src/interface.c:599
+msgid "Quit"
+msgstr ""
+
+#: src/interface.c:601
+msgid "Select A File"
+msgstr ""
+
+#: src/interface.c:612
+msgid "Parameters"
+msgstr ""
+
+#: src/support.c:90 src/support.c:114
+#, c-format
+msgid "Couldn't find pixmap file: %s"
+msgstr ""
