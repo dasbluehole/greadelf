@@ -1,0 +1,14 @@
+greadelf 1.0
+- Added New GUI interface for displaying ELF information.
+
+greadelf 0.4
+-fixed terminal issue raised by kushaldas
+
+greadelf 0.3
+-initial release
+
+greadelf 0.2
+-test release
+
+greadelf 0.1
+-test release
